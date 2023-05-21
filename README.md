@@ -1,4 +1,5 @@
 # Diamond-Price-Predictor
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
 ### This repository is the solution to the diamond price predictor competition on Kaggle.
 
 ### It is part of my training with SHAI for AI.
