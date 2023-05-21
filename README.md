@@ -1,6 +1,6 @@
 # Diamond-Price-Predictor
 
-### This repository is the solution to the diamond price predictor competition on Kaggle.
+### This repository is a solution to the diamond price predictor competition on Kaggle.
 
 ### It is part of my training with SHAI for AI.
 
