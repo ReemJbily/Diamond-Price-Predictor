@@ -46,5 +46,4 @@
 ### 8-Saving the results:
 #### In this step predictions on the test set were performed using the chosen model, then saved the result as a csv file.
 # Results:
-#### after comparing the different models using the RMSE, we found that the best result was achieved using voting regressor with random #### forest (n_estimators=1000, random_state=42) and XGBoost (n_estimators=300, lr= 0.1) with just adding volume feature.
-
+#### after comparing the different models using the RMSE, we found that the best result was achieved using voting regressor with random forest (n_estimators=1000, random_state=42) and XGBoost (n_estimators=300, lr= 0.1) with just adding volume feature.
