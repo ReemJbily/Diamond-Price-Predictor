@@ -1,8 +1,12 @@
 # Diamond-Price-Predictor
 ##This repository is the solution to the diamond price predictor competition on Kaggle.
+
 ##It is part of my training with SHAI for AI.
+
 ##The data set is available here and it is divided into train and test sets.
+
 ##The project went through different stages of machine learning life cycle.
+
 #Project life cycle:
 ####1-The big picture:
 ####After picking up some information on factors that affect diamond price, we found five factors that affect the price directly:
