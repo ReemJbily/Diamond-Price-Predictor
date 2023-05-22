@@ -32,7 +32,7 @@
 #### 	Column transformation:
 #### For numerical columns we used:
 #### •	Simple Imputer(strategy=median) so any missed nan value will be replaced by the median value of its column.
-#### •	CombinedAttributeAdder: to add the volume column which is x*y*z values.
+#### •	CombinedAttributeAdder: to add the volume column which is x * y * z values.
 #### •	StandardScaler: to scale the data for better training.
 #### For exponentially distributed data we used:
 #### •	FunctionTransformer: that applies log transform.
